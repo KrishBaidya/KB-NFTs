@@ -1,13 +1,18 @@
 {
- "image": "https://www.whatsappimages.in/wp-content/uploads/2020/11/Boys-Feeling-Sad-Whatsapp-DP-Pics-Download-Free-300x169.jpg",
- "copyright_transfer": false,
- "tokenId": "1",
- "resellable": true, 
- "category": "Art",
- "sub_category": "photography",
- "original_creator": "0xF224E24D403eb3b438f02E474c91b0EA34A3747b",
- "description": "<p>A photo of Windy day. This photo is captured and edited by me. You can buy and resell this NFT.</p>",
- "title": "1",
- "name": "1",
- "edition_total": 1,
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "NFTTTT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://www.whatsappimages.in/wp-content/uploads/2020/11/Boys-Feeling-Sad-Whatsapp-DP-Pics-Download-Free-300x169.jpg" 
+        }
+    }
 }
